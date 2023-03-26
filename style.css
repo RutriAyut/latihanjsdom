@@ -1,0 +1,19 @@
+.input p{
+    display: inline-block;
+}
+
+.input .angka, p, .btn{
+    margin: 10px 5px;
+}
+
+.input{
+    border-bottom: 1px solid black;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    padding: 10px 20px;
+}
